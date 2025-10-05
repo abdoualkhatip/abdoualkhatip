@@ -7,6 +7,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="asp.net logo" />
+  <img width="12" />
+  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" height="40" alt="bootstrap logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" /> 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" />
