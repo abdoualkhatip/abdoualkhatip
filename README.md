@@ -50,24 +50,6 @@ I enjoy solving complex problems, writing clean and maintainable code, and conti
 
 ---
 
-## 📈 GitHub Stats
-
-![Abdou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdoualkhatip&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
-
----
-
-## 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoualkhatip&layout=compact&langs_count=10&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abdoualkhatip&theme=radical&hide_border=false)
-
----
-
 ## 📫 Contact
 
 - **Email:** alkhatipabdou3@gmail.com  
